@@ -1,12 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>Viralway</h1>
 
-<!--
+  <p>
+    The fastest way to make your app go viral through short form content for social media.
+  </p>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white)](https://your-website-url.com)
+
+<br>
+
+<div align="center">
+  <h3>desktop view</h3>
+
+  <img
+    src="https://res.cloudinary.com/diekemzs9/image/upload/v1789842544/908_1x_shots_so_lpxoyv.png"
+    alt="viralway ui"
+    width="800"
+  />
+</div>
+
